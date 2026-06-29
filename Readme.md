@@ -1,48 +1,80 @@
-# Personal Portfolio
+# Sirisha Padmasekhar | Portfolio Website
+## Live Website
 
-[https://thedatadesk.github.io/](https://thedatadesk.github.io/sirishaportfolio/)
+**Portfolio:** https://sirishapadmasekhar.github.io/sirisha-portfolio/
+
+---
 
 ## Features
 
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+* Responsive design for desktop, tablet, and mobile
+* Interactive project showcase with GitHub links
+* Color-coded project categories
+* Technical skills organized by domain
+* Professional experience timeline
+* Education and certifications
+* Contact section with social links
+* Smooth scrolling navigation
+* Clean, modern UI built with Bootstrap
 
-## Installation & Deployment
+---
 
-- Clone the repository and modify the content of <b>index.html</b>
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
-- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+##  Built With
 
-## Sections
+### Frontend
 
-✔️ About\
-✔️ Projects \
-✔️ Digital Domain\
-✔️ Resume
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
 
-## Tools Used
+### Design
 
-- <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+* Bootstrap Icons
+* Google Fonts
 
-## Contributing
+### Deployment
 
-#### Step 1
+* GitHub Pages
 
-- **Option 1**
+---
 
-  - 🍴 Fork this repo!
+## Project Structure
 
-- **Option 2**
-  - Clone this repo to your local machine.
+```text
+.
+├── index.html
+├── assets
+│   ├── css
+│   ├── img
+│   ├── js
+│   └── vendor
+├── README.md
+└── LICENSE
+```
 
-#### Step 2
+---
+##  Running Locally
 
-- **Build your code** 🔨🔨🔨
+Clone the repository:
 
-#### Step 3
+```bash
+git clone https://github.com/sirishapadmasekhar/sirisha-portfolio.git
+```
 
-- Create a new pull request.
+Navigate into the project:
+
+```bash
+cd sirisha-portfolio
+```
+
+Open `index.html` in your browser.
+
+No additional dependencies or installation are required.
+
+---
+
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
